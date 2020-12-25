@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/movie-app-2021/static/css/main.ad675cea.chunk.css",
-    "main.js": "/movie-app-2021/static/js/main.3ce30a56.chunk.js",
-    "main.js.map": "/movie-app-2021/static/js/main.3ce30a56.chunk.js.map",
-    "runtime-main.js": "/movie-app-2021/static/js/runtime-main.9c1c4200.js",
-    "runtime-main.js.map": "/movie-app-2021/static/js/runtime-main.9c1c4200.js.map",
-    "static/js/2.71653512.chunk.js": "/movie-app-2021/static/js/2.71653512.chunk.js",
-    "static/js/2.71653512.chunk.js.map": "/movie-app-2021/static/js/2.71653512.chunk.js.map",
-    "index.html": "/movie-app-2021/index.html",
-    "static/css/main.ad675cea.chunk.css.map": "/movie-app-2021/static/css/main.ad675cea.chunk.css.map",
-    "static/js/2.71653512.chunk.js.LICENSE.txt": "/movie-app-2021/static/js/2.71653512.chunk.js.LICENSE.txt"
+    "main.css": "/movei-app-2021/static/css/main.ad675cea.chunk.css",
+    "main.js": "/movei-app-2021/static/js/main.3ce30a56.chunk.js",
+    "main.js.map": "/movei-app-2021/static/js/main.3ce30a56.chunk.js.map",
+    "runtime-main.js": "/movei-app-2021/static/js/runtime-main.87db8e95.js",
+    "runtime-main.js.map": "/movei-app-2021/static/js/runtime-main.87db8e95.js.map",
+    "static/js/2.71653512.chunk.js": "/movei-app-2021/static/js/2.71653512.chunk.js",
+    "static/js/2.71653512.chunk.js.map": "/movei-app-2021/static/js/2.71653512.chunk.js.map",
+    "index.html": "/movei-app-2021/index.html",
+    "static/css/main.ad675cea.chunk.css.map": "/movei-app-2021/static/css/main.ad675cea.chunk.css.map",
+    "static/js/2.71653512.chunk.js.LICENSE.txt": "/movei-app-2021/static/js/2.71653512.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9c1c4200.js",
+    "static/js/runtime-main.87db8e95.js",
     "static/js/2.71653512.chunk.js",
     "static/css/main.ad675cea.chunk.css",
     "static/js/main.3ce30a56.chunk.js"
